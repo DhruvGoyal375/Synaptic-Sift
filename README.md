@@ -1,3 +1,4 @@
+# Synaptic Sift
 This project focuses on the classification of Electroencephalogram (EEG) signals for the early
 detection of Autism Spectrum Disorder (ASD) using a diverse set of machine learning and deep
 learning models. The machine learning models, including Logistic Regression, Support Vector
